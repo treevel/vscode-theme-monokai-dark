@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#file-list {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+#file-list li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+#file-list li a {
+    text-decoration: none;
+    color: #333;
+}
+
+#file-list li a:hover {
+    text-decoration: underline;
+}
+
+#file-actions {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+#file-actions button {
+    margin-right: 10px;
+}

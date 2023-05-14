@@ -1,0 +1,35 @@
+{
+  "name": "monokai-dark-theme",
+  "displayName": "Monokai Dark Theme",
+  "description": "A Monokai theme base on vscode dark color theme",
+  "version": "0.0.1",
+  "author": "Treevel Li",
+  "publisher": "Treevel",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/treevel/vscode-theme-monokai-dark"
+  },
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Monokai",
+    "VSCode theme",
+    "theme",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-dark-color-theme.json"
+      }
+    ]
+  }
+}
