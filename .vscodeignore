@@ -1,5 +1,5 @@
-**/.git**
-**/.vscode**
+**/.git/**
+**/.vscode/**
 vsc-extension-quickstart.md
 node_modules
 samples
