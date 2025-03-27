@@ -10,6 +10,14 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ![](./screenshots/whole-editor.png)
 
+### Java
+
+![](./screenshots/java.png)
+
+### JavaScript
+
+![](./screenshots/javascript.png)
+
 ### PHP
 
 ![](./screenshots/php.png)
@@ -18,10 +26,6 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ![](./screenshots/python.png)
 
-### Java
-
-![](./screenshots/java.png)
-
 ### HTML
 
 ![](./screenshots/html.png)
@@ -29,10 +33,6 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 ### CSS
 
 ![](./screenshots/css.png)
-
-### JavaScript
-
-![](./screenshots/javascript.png)
 
 ## License
 
